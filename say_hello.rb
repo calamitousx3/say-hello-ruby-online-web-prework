@@ -6,3 +6,4 @@ end
 
 say_hello("Erik")
 
+say_hello
